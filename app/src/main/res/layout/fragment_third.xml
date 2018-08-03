@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#616161">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:clipToPadding="false"
+        android:paddingBottom="60dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="10dp"
+            android:padding="15dp"
+            android:text="木料是音色灵魂之所在，所以了解各种木料的物理属性是致关重要的。
+寻找世上最好的木料来成就Taylor吉他的最好音色，这也是让我们也能探索出世上最好音色的可能性，有些木料是经典款式与广为人们所知的好音色，其它TAYLOR所采用一些鲜为人知的木料皆有其令人好奇惊艳的特性，Taylor对于所选择之木料将给予最好的呵护，此外也尽可能地节省这些可贵的资源，所选择的木头同时具有视觉上的美观以及听觉上的悦耳，你将可以发现Taylor吉他将可带给你最好的木料最好的色泽 以及最好的音色.
+1. Sitka spruce 清亮的音色，极广域的音色动态表现，适合给节奏性强烈的曲风.
+2. Western Red Cedar 温暖柔和的音色，适合指法弹奏与分散合弦的玩家.
+3. Tropical American Mahogany 清亮的音色，独特的音色平衡反应让极细微的拨弦都能清楚地呈现。
+4. African Mahogany 音色温暖中频饱满，音色平衡反应与Tropical American Mahogany类似。
+5. Engelmann Spruce 比Sitka较为轻的木料，提供温和的泛音共鸣。
+6. Big Left Maple 木料上的颗粒，提供了较为紧实与平衡的音色反应。
+7. Hawaiian Koa 扎实有力的中频表现,高频清析，低频响应介于枫木与玫瑰木之间。
+8. Cocobolo 玫瑰木之中材质最密实的，提供了饱满的音色与音量。
+9. Laminates 100系列以及BabyTaylor使用laminate的背板和边板，能提供给你绝佳的音色和合理的价位。
+10. Claro Walnut 快速的低频响应，音色表现与玫瑰木相似。
+11. Sapele 比桃花心木更为密实与坚硬，提供清脆明亮的音色。
+12. Indian Rosewood 饱满的低频响应，共鸣与延音表现良好。
+13. Ovangkol 有如玫瑰木一般良好的低频响应与共鸣。
+木料是音色灵魂之所在，所以了解各种木料的物理属性是致关重要的。
+寻找世上最好的木料来成就Taylor吉他的最好音色，这也是让我们也能探索出世上最好音色的可能性，有些木料是经典款式与广为人们所知的好音色，其它TAYLOR所采用一些鲜为人知的木料皆有其令人好奇惊艳的特性，Taylor对于所选择之木料将给予最好的呵护，此外也尽可能地节省这些可贵的资源，所选择的木头同时具有视觉上的美观以及听觉上的悦耳，你将可以发现Taylor吉他将可带给你最好的木料最好的色泽 以及最好的音色.
+1. Sitka spruce 清亮的音色，极广域的音色动态表现，适合给节奏性强烈的曲风.
+2. Western Red Cedar 温暖柔和的音色，适合指法弹奏与分散合弦的玩家.
+3. Tropical American Mahogany 清亮的音色，独特的音色平衡反应让极细微的拨弦都能清楚地呈现。
+4. African Mahogany 音色温暖中频饱满，音色平衡反应与Tropical American Mahogany类似。
+5. Engelmann Spruce 比Sitka较为轻的木料，提供温和的泛音共鸣。
+6. Big Left Maple 木料上的颗粒，提供了较为紧实与平衡的音色反应。
+7. Hawaiian Koa 扎实有力的中频表现,高频清析，低频响应介于枫木与玫瑰木之间。
+8. Cocobolo 玫瑰木之中材质最密实的，提供了饱满的音色与音量。
+9. Laminates 100系列以及BabyTaylor使用laminate的背板和边板，能提供给你绝佳的音色和合理的价位。
+10. Claro Walnut 快速的低频响应，音色表现与玫瑰木相似。
+11. Sapele 比桃花心木更为密实与坚硬，提供清脆明亮的音色。
+12. Indian Rosewood 饱满的低频响应，共鸣与延音表现良好。
+13. Ovangkol 有如玫瑰木一般良好的低频响应与共鸣。
+
+木料是音色灵魂之所在，所以了解各种木料的物理属性是致关重要的。
+寻找世上最好的木料来成就Taylor吉他的最好音色，这也是让我们也能探索出世上最好音色的可能性，有些木料是经典款式与广为人们所知的好音色，其它TAYLOR所采用一些鲜为人知的木料皆有其令人好奇惊艳的特性，Taylor对于所选择之木料将给予最好的呵护，此外也尽可能地节省这些可贵的资源，所选择的木头同时具有视觉上的美观以及听觉上的悦耳，你将可以发现Taylor吉他将可带给你最好的木料最好的色泽 以及最好的音色.
+1. Sitka spruce 清亮的音色，极广域的音色动态表现，适合给节奏性强烈的曲风.
+2. Western Red Cedar 温暖柔和的音色，适合指法弹奏与分散合弦的玩家.
+3. Tropical American Mahogany 清亮的音色，独特的音色平衡反应让极细微的拨弦都能清楚地呈现。
+4. African Mahogany 音色温暖中频饱满，音色平衡反应与Tropical American Mahogany类似。
+5. Engelmann Spruce 比Sitka较为轻的木料，提供温和的泛音共鸣。
+6. Big Left Maple 木料上的颗粒，提供了较为紧实与平衡的音色反应。
+7. Hawaiian Koa 扎实有力的中频表现,高频清析，低频响应介于枫木与玫瑰木之间。
+8. Cocobolo 玫瑰木之中材质最密实的，提供了饱满的音色与音量。
+9. Laminates 100系列以及BabyTaylor使用laminate的背板和边板，能提供给你绝佳的音色和合理的价位。
+10. Claro Walnut 快速的低频响应，音色表现与玫瑰木相似。
+11. Sapele 比桃花心木更为密实与坚硬，提供清脆明亮的音色。
+12. Indian Rosewood 饱满的低频响应，共鸣与延音表现良好。
+13. Ovangkol 有如玫瑰木一般良好的低频响应与共鸣。"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

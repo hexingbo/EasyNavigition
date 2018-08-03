@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Button
+        android:id="@+id/bt01"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="展示消息红点提示"
+        android:onClick="click01" />
+
+    <Button
+        android:id="@+id/bt02"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:onClick="clear"
+        android:text="清除消息红点提示"
+        app:layout_constraintTop_toBottomOf="@id/bt01" />
+    <Button
+        android:id="@+id/bt03"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:onClick="onJump"
+        android:text="跳转第二个页面，并傻笑"
+        app:layout_constraintTop_toBottomOf="@id/bt02" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:textSize="100sp"
+        android:gravity="center"
+        android:text="A"/>
+
+</android.support.constraint.ConstraintLayout>
